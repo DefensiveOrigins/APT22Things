@@ -14,7 +14,7 @@ dnspython==2.1.0; python_version >= "3.6"
 flask==1.1.2; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.6"
 future==0.18.2; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version >= "3.6"
 idna==2.10; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
-impacket==0.9.22
+impacket==0.9.23
 itsdangerous==1.1.0; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.6"
 jinja2==2.11.3; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.6"
 ldap3==2.9; python_version >= "3.6"
